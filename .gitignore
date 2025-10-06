@@ -193,9 +193,6 @@ datasets/
 raw_data/
 processed_data/
 
-# Jupyter notebook outputs
-*.ipynb
-
 # MLflow
 mlruns/
 mlartifacts/
